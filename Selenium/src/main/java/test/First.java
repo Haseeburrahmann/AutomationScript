@@ -27,8 +27,8 @@ public class First
 	
 	Alert alert = driver.switchTo().alert();
 	
-	alert.accept();
-	
+	//alert.accept();
+	//Haseeb is my Name
      driver.quit();
 	
   }
